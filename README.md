@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=180&text=Welcome%20to%20Rafael%20Queiroz%20Profile&fontSize=35&fontColor=00ffcc&animation=scaleIn" width="100%"/>
+  <img src="banner.png" alt="Welcome to Rafael Queiroz profile" width="100%">
 </p>
 # 👋 Olá, eu sou Rafael Queiroz
 
