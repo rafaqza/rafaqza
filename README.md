@@ -38,6 +38,6 @@ Meu objetivo é desenvolver soluções que gerem impacto real, construir projeto
 ## 📫 Contato
 
 - LinkedIn: www.linkedin.com/in/rafael-queiroz-365bb1265
-- Email: rafaqza@exemplo.com
+- Email: rafaqza@gmail.com
 
 ---
