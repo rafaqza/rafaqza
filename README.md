@@ -24,7 +24,7 @@
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/rafael-queiroz-365bb1265
+- LinkedIn: www.linkedin.com/in/rafael-queiroz-alencar
 - Email: rafaqza@gmail.com
 
 ---
