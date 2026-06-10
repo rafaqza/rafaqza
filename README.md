@@ -19,6 +19,8 @@
 - Python
 - JavaScript
 - C++
+- Bitsy Color
+- Arduino
 
 
 
