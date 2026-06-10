@@ -5,28 +5,34 @@
     --Olá, eu sou Rafael Queiroz--
 <p
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-- 🎓 Graduando em Ciência da Computação na CESAR School
-- 💻 Interesse em Desenvolvimento de Software, Inteligência Artificial, Engenharia de Software e Cyber Segurança
-- 📚 Sempre estudando novas tecnologias e aprimorando minhas habilidades técnicas
-- 🏋️ Disciplina e constância através de treino e desenvolvimento pessoal
-- 🎯 Focado em crescimento contínuo e aprendizado de longo prazo
+* 🎓 Computer Science Student at CESAR School
+* 🌍 Fluent in English with an international academic background
+* 💻 Passionate about Software Development, Artificial Intelligence, Software Engineering, and Cybersecurity
+* 📚 Constantly exploring new technologies and expanding my technical skill set
+* 🏋️ Strong believer in discipline, consistency, and continuous self-improvement
+* 🎯 Focused on long-term growth, lifelong learning, and building impactful solutions
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
-### Linguagens
-- Python
-- JavaScript
-- C++
-- Bitsy Color
-- Arduino
+### Programming Languages
 
+* Python
+* JavaScript
+* C++
+* Arduino
+* Bitsy Color
 
+## 📫 Connect With Me
 
-## 📫 Contato
+* LinkedIn: [www.linkedin.com/in/rafael-queiroz-alencar](http://www.linkedin.com/in/rafael-queiroz-alencar)
+* Email: [rafaqza@gmail.com](mailto:rafaqza@gmail.com)
+* Portfolio: https://rafaqza.github.io/portifolio/
 
-- LinkedIn: www.linkedin.com/in/rafael-queiroz-alencar
-- Email: rafaqza@gmail.com
+---
+
+⭐ Always learning, building, and looking for new challenges.
+
 
 ---
