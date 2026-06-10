@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="rocket.png" alt="Welcome to Rafael Queiroz profile" width="100%">
+  <img src="giphy.gif" alt="Welcome to Rafael Queiroz profile" width="100%">
 </p>
 # 👋 Olá, eu sou Rafael Queiroz
 
